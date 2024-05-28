@@ -16,7 +16,6 @@
 ### **Major Contributions**
 
 - ****Educational Content**:** Shared educational materials, including tutorials and guides on using Scaffold-eth for rapid dApp development. I did a workshop on the opening day, [here](https://docs.google.com/presentation/d/18wdcZBZZn5lDlL9xWWhQmuNMx7iydGud5QZJHayoUUM/edit#slide=id.g2b62eb84e45_0_0) are the slides.
-- **Project Evaluation**: Evaluated [20 projects](https://docs.google.com/spreadsheets/d/1O1oclo2F54vERyZ_yiM5IMaY4M582a7fc0NXDb_cFFo/edit#gid=2008180209) applying for the prize, selecting the winner and runner-up.
 - **Hackathon Judge**: Served as a judge for the hackathon, assessing project quality, innovation, and implementation. Evaluated [20 projects](https://docs.google.com/spreadsheets/d/1O1oclo2F54vERyZ_yiM5IMaY4M582a7fc0NXDb_cFFo/edit#gid=2008180209) applying for the prize, selecting the winner and runner-up.
 - **Selection of Portuguese Advocates**: Selected two young founder teams with strong university connections, whose energy and insights were particularly impressive.
 
