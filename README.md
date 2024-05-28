@@ -23,7 +23,6 @@
 
 * **Attendance** : Engaged with over 200 participants during workshop and interacting in the booth.
 * **New Members** : Attracted new developers to join BuidlGuidl. They already [have created content in Portuguese](https://www.notion.so/ETH-Samba-Mar-22-24-2024-d655cf226bba4b32b27789b452914e0f?pvs=21), explaining how to solve Speed Run Ethereum challenges.
-* **Project Applications** : Reviewed and supported 20 project applications for the prize.
 * **New Content** : Facilitated the creation of new educational content in Portuguese, increasing accessibility for the local developer community.
 
 ---
